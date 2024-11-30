@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F824D5A-8FDA-45EE-B7FD-0D409E9E454C}|edTechSpark.APIs\\edTechSpark.APIs.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.apis\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F824D5A-8FDA-45EE-B7FD-0D409E9E454C}|edTechSpark.APIs\\edTechSpark.APIs.csproj|solutionrelative:edtechspark.apis\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F824D5A-8FDA-45EE-B7FD-0D409E9E454C}|edTechSpark.APIs\\edTechSpark.APIs.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.apis\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F824D5A-8FDA-45EE-B7FD-0D409E9E454C}|edTechSpark.APIs\\edTechSpark.APIs.csproj|solutionrelative:edtechspark.apis\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F824D5A-8FDA-45EE-B7FD-0D409E9E454C}|edTechSpark.APIs\\edTechSpark.APIs.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.apis\\filters\\customauthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F824D5A-8FDA-45EE-B7FD-0D409E9E454C}|edTechSpark.APIs\\edTechSpark.APIs.csproj|solutionrelative:edtechspark.apis\\filters\\customauthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F824D5A-8FDA-45EE-B7FD-0D409E9E454C}|edTechSpark.APIs\\edTechSpark.APIs.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.apis\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F824D5A-8FDA-45EE-B7FD-0D409E9E454C}|edTechSpark.APIs\\edTechSpark.APIs.csproj|solutionrelative:edtechspark.apis\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F824D5A-8FDA-45EE-B7FD-0D409E9E454C}|edTechSpark.APIs\\edTechSpark.APIs.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.apis\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F824D5A-8FDA-45EE-B7FD-0D409E9E454C}|edTechSpark.APIs\\edTechSpark.APIs.csproj|solutionrelative:edtechspark.apis\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F824D5A-8FDA-45EE-B7FD-0D409E9E454C}|edTechSpark.APIs\\edTechSpark.APIs.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.apis\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F824D5A-8FDA-45EE-B7FD-0D409E9E454C}|edTechSpark.APIs\\edTechSpark.APIs.csproj|solutionrelative:edtechspark.apis\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.APIs\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "edTechSpark.APIs\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.APIs\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "edTechSpark.APIs\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:33:43.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CatalogController.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.APIs\\Controllers\\CatalogController.cs",
+              "RelativeDocumentMoniker": "edTechSpark.APIs\\Controllers\\CatalogController.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.APIs\\Controllers\\CatalogController.cs",
+              "RelativeToolTip": "edTechSpark.APIs\\Controllers\\CatalogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:33:40.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.APIs\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "edTechSpark.APIs\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.APIs\\Controllers\\CartController.cs",
+              "RelativeToolTip": "edTechSpark.APIs\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:33:37.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.APIs\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "edTechSpark.APIs\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.APIs\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "edTechSpark.APIs\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:33:25.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.APIs\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "edTechSpark.APIs\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.APIs\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "edTechSpark.APIs\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:33:15.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomAuthorize.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.APIs\\Filters\\CustomAuthorize.cs",
+              "RelativeDocumentMoniker": "edTechSpark.APIs\\Filters\\CustomAuthorize.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.APIs\\Filters\\CustomAuthorize.cs",
+              "RelativeToolTip": "edTechSpark.APIs\\Filters\\CustomAuthorize.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:32:21.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

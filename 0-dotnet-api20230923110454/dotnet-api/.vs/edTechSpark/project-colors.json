@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c2da8c49-ca3a-4737-94cd-c5662fc491e6": {
+      "ProjectGuid": "c2da8c49-ca3a-4737-94cd-c5662fc491e6",
+      "DisplayName": "edTechSpark.DomainModels",
+      "ColorIndex": 0
+    },
+    "7a5867d0-997c-41bb-8200-ea9798d1bd5f": {
+      "ProjectGuid": "7a5867d0-997c-41bb-8200-ea9798d1bd5f",
+      "DisplayName": "edTechSpark.DAL",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d6e794f6-ef1a-4e94-bb24-a06a70483556": {
+      "ProjectGuid": "d6e794f6-ef1a-4e94-bb24-a06a70483556",
+      "DisplayName": "edTechSpark.Services",
+      "ColorIndex": 2
+    },
+    "5f824d5a-8fda-45ee-b7fd-0d409e9e454c": {
+      "ProjectGuid": "5f824d5a-8fda-45ee-b7fd-0d409e9e454c",
+      "DisplayName": "edTechSpark.APIs",
+      "ColorIndex": 3
+    },
+    "9aa573ef-b754-4655-bdbd-3ccf2c7eee44": {
+      "ProjectGuid": "9aa573ef-b754-4655-bdbd-3ccf2c7eee44",
+      "DisplayName": "edTechSpark.Web",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

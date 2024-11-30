@@ -1,0 +1,17 @@
+F:\Training\Code\Angular\edTech\edTech.Services\obj\Debug\net6.0\edTech.Services.csproj.AssemblyReference.cache
+F:\Training\Code\Angular\edTech\edTech.Services\obj\Debug\net6.0\edTech.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\Training\Code\Angular\edTech\edTech.Services\obj\Debug\net6.0\edTech.Services.AssemblyInfoInputs.cache
+F:\Training\Code\Angular\edTech\edTech.Services\obj\Debug\net6.0\edTech.Services.AssemblyInfo.cs
+F:\Training\Code\Angular\edTech\edTech.Services\obj\Debug\net6.0\edTech.Services.csproj.CoreCompileInputs.cache
+F:\Training\Code\Angular\edTech\edTech.Services\bin\Debug\net6.0\edTech.Services.deps.json
+F:\Training\Code\Angular\edTech\edTech.Services\bin\Debug\net6.0\edTech.Services.dll
+F:\Training\Code\Angular\edTech\edTech.Services\bin\Debug\net6.0\edTech.Services.pdb
+F:\Training\Code\Angular\edTech\edTech.Services\bin\Debug\net6.0\edTech.DAL.dll
+F:\Training\Code\Angular\edTech\edTech.Services\bin\Debug\net6.0\edTech.DomainModels.dll
+F:\Training\Code\Angular\edTech\edTech.Services\bin\Debug\net6.0\edTech.DAL.pdb
+F:\Training\Code\Angular\edTech\edTech.Services\bin\Debug\net6.0\edTech.DomainModels.pdb
+F:\Training\Code\Angular\edTech\edTech.Services\obj\Debug\net6.0\edTech.Services.dll
+F:\Training\Code\Angular\edTech\edTech.Services\obj\Debug\net6.0\ref\edTech.Services.dll
+F:\Training\Code\Angular\edTech\edTech.Services\obj\Debug\net6.0\edTech.Services.pdb
+F:\Training\Code\Angular\edTech\edTech.Services\bin\Debug\net6.0\ref\edTech.Services.dll
+F:\Training\Code\Angular\edTech\edTech.Services\obj\Debug\net6.0\edTech.Services.csproj.CopyComplete

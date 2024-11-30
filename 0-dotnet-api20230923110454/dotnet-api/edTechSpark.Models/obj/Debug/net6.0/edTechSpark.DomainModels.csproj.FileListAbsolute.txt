@@ -1,0 +1,11 @@
+F:\Training\Code\Angular\edTechSpark\edTechSpark.DomainModels\bin\Debug\net6.0\edTechSpark.DomainModels.deps.json
+F:\Training\Code\Angular\edTechSpark\edTechSpark.DomainModels\bin\Debug\net6.0\edTechSpark.DomainModels.dll
+F:\Training\Code\Angular\edTechSpark\edTechSpark.DomainModels\bin\Debug\net6.0\ref\edTechSpark.DomainModels.dll
+F:\Training\Code\Angular\edTechSpark\edTechSpark.DomainModels\bin\Debug\net6.0\edTechSpark.DomainModels.pdb
+F:\Training\Code\Angular\edTechSpark\edTechSpark.DomainModels\obj\Debug\net6.0\edTechSpark.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+F:\Training\Code\Angular\edTechSpark\edTechSpark.DomainModels\obj\Debug\net6.0\edTechSpark.DomainModels.AssemblyInfoInputs.cache
+F:\Training\Code\Angular\edTechSpark\edTechSpark.DomainModels\obj\Debug\net6.0\edTechSpark.DomainModels.AssemblyInfo.cs
+F:\Training\Code\Angular\edTechSpark\edTechSpark.DomainModels\obj\Debug\net6.0\edTechSpark.DomainModels.csproj.CoreCompileInputs.cache
+F:\Training\Code\Angular\edTechSpark\edTechSpark.DomainModels\obj\Debug\net6.0\edTechSpark.DomainModels.dll
+F:\Training\Code\Angular\edTechSpark\edTechSpark.DomainModels\obj\Debug\net6.0\ref\edTechSpark.DomainModels.dll
+F:\Training\Code\Angular\edTechSpark\edTechSpark.DomainModels\obj\Debug\net6.0\edTechSpark.DomainModels.pdb

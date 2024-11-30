@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5f824d5a-8fda-45ee-b7fd-0d409e9e454c": {
+      "ProjectGuid": "5f824d5a-8fda-45ee-b7fd-0d409e9e454c",
+      "DisplayName": "edTech.APIs",
+      "ColorIndex": 0
+    },
+    "9aa573ef-b754-4655-bdbd-3ccf2c7eee44": {
+      "ProjectGuid": "9aa573ef-b754-4655-bdbd-3ccf2c7eee44",
+      "DisplayName": "edTech.Web",
+      "ColorIndex": 1
+    },
+    "7a5867d0-997c-41bb-8200-ea9798d1bd5f": {
+      "ProjectGuid": "7a5867d0-997c-41bb-8200-ea9798d1bd5f",
+      "DisplayName": "edTech.DAL",
+      "ColorIndex": 2
+    },
+    "c2da8c49-ca3a-4737-94cd-c5662fc491e6": {
+      "ProjectGuid": "c2da8c49-ca3a-4737-94cd-c5662fc491e6",
+      "DisplayName": "edTech.DomainModels",
+      "ColorIndex": 3
+    },
+    "d6e794f6-ef1a-4e94-bb24-a06a70483556": {
+      "ProjectGuid": "d6e794f6-ef1a-4e94-bb24-a06a70483556",
+      "DisplayName": "edTech.Services",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

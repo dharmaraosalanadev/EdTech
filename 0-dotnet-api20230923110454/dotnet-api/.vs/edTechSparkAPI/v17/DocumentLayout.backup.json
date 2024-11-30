@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F824D5A-8FDA-45EE-B7FD-0D409E9E454C}|edTechSpark.APIs\\edTechSpark.APIs.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.apis\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F824D5A-8FDA-45EE-B7FD-0D409E9E454C}|edTechSpark.APIs\\edTechSpark.APIs.csproj|solutionrelative:edtechspark.apis\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F824D5A-8FDA-45EE-B7FD-0D409E9E454C}|edTechSpark.APIs\\edTechSpark.APIs.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F824D5A-8FDA-45EE-B7FD-0D409E9E454C}|edTechSpark.APIs\\edTechSpark.APIs.csproj|solutionrelative:edtechspark.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F824D5A-8FDA-45EE-B7FD-0D409E9E454C}|edTechSpark.APIs\\edTechSpark.APIs.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.apis\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F824D5A-8FDA-45EE-B7FD-0D409E9E454C}|edTechSpark.APIs\\edTechSpark.APIs.csproj|solutionrelative:edtechspark.apis\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.core\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|solutionrelative:edtechspark.core\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E794F6-EF1A-4E94-BB24-A06A70483556}|edTechSpark.Services\\edTechSpark.Services.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.services\\configuration\\configuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E794F6-EF1A-4E94-BB24-A06A70483556}|edTechSpark.Services\\edTechSpark.Services.csproj|solutionrelative:edtechspark.services\\configuration\\configuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DA8C49-CA3A-4737-94CD-C5662FC491E6}|edTechSpark.Models\\edTechSpark.Models.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DA8C49-CA3A-4737-94CD-C5662FC491E6}|edTechSpark.Models\\edTechSpark.Models.csproj|solutionrelative:edtechspark.models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DA8C49-CA3A-4737-94CD-C5662FC491E6}|edTechSpark.Models\\edTechSpark.Models.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DA8C49-CA3A-4737-94CD-C5662FC491E6}|edTechSpark.Models\\edTechSpark.Models.csproj|solutionrelative:edtechspark.models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DA8C49-CA3A-4737-94CD-C5662FC491E6}|edTechSpark.Models\\edTechSpark.Models.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.models\\coursetopicmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DA8C49-CA3A-4737-94CD-C5662FC491E6}|edTechSpark.Models\\edTechSpark.Models.csproj|solutionrelative:edtechspark.models\\coursetopicmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DA8C49-CA3A-4737-94CD-C5662FC491E6}|edTechSpark.Models\\edTechSpark.Models.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DA8C49-CA3A-4737-94CD-C5662FC491E6}|edTechSpark.Models\\edTechSpark.Models.csproj|solutionrelative:edtechspark.models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.core\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|solutionrelative:edtechspark.core\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.core\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|solutionrelative:edtechspark.core\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.core\\entities\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|solutionrelative:edtechspark.core\\entities\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.core\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|solutionrelative:edtechspark.core\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|solutionrelative:edtechspark.core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.core\\entities\\mentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|solutionrelative:edtechspark.core\\entities\\mentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.core\\entities\\coursetopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|solutionrelative:edtechspark.core\\entities\\coursetopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.core\\entities\\courselesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|solutionrelative:edtechspark.core\\entities\\courselesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.core\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|solutionrelative:edtechspark.core\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|solutionrelative:edtechspark.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.core\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|solutionrelative:edtechspark.core\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|d:\\edtech\\0-dotnet-api20230923110454\\dotnet-api\\edtechspark.core\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5867D0-997C-41BB-8200-EA9798D1BD5F}|edTechSpark.Core\\edTechSpark.Core.csproj|solutionrelative:edtechspark.core\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.APIs\\appsettings.json",
+              "RelativeDocumentMoniker": "edTechSpark.APIs\\appsettings.json",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.APIs\\appsettings.json",
+              "RelativeToolTip": "edTechSpark.APIs\\appsettings.json",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAC2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T06:28:27.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\Subscription.cs",
+              "RelativeDocumentMoniker": "edTechSpark.Core\\Entities\\Subscription.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\Subscription.cs",
+              "RelativeToolTip": "edTechSpark.Core\\Entities\\Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:59:01.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "edTechSpark.Core\\Entities\\Role.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\Role.cs",
+              "RelativeToolTip": "edTechSpark.Core\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:58:59.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentDetail.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\PaymentDetail.cs",
+              "RelativeDocumentMoniker": "edTechSpark.Core\\Entities\\PaymentDetail.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\PaymentDetail.cs",
+              "RelativeToolTip": "edTechSpark.Core\\Entities\\PaymentDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:58:58.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.APIs\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "edTechSpark.APIs\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.APIs\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "edTechSpark.APIs\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T05:01:02.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemModel.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Models\\ItemModel.cs",
+              "RelativeDocumentMoniker": "edTechSpark.Models\\ItemModel.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Models\\ItemModel.cs",
+              "RelativeToolTip": "edTechSpark.Models\\ItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:59:13.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.APIs\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "edTechSpark.APIs\\appsettings.Development.json",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.APIs\\appsettings.Development.json",
+              "RelativeToolTip": "edTechSpark.APIs\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T06:33:31.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Models\\CartModel.cs",
+              "RelativeDocumentMoniker": "edTechSpark.Models\\CartModel.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Models\\CartModel.cs",
+              "RelativeToolTip": "edTechSpark.Models\\CartModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:59:09.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "edTechSpark.Core\\AppDbContext.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\AppDbContext.cs",
+              "RelativeToolTip": "edTechSpark.Core\\AppDbContext.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:58:07.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseTopicModel.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Models\\CourseTopicModel.cs",
+              "RelativeDocumentMoniker": "edTechSpark.Models\\CourseTopicModel.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Models\\CourseTopicModel.cs",
+              "RelativeToolTip": "edTechSpark.Models\\CourseTopicModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:59:10.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigureDependencies.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Services\\Configuration\\ConfigureDependencies.cs",
+              "RelativeDocumentMoniker": "edTechSpark.Services\\Configuration\\ConfigureDependencies.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Services\\Configuration\\ConfigureDependencies.cs",
+              "RelativeToolTip": "edTechSpark.Services\\Configuration\\ConfigureDependencies.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAApwC0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:09:21.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "edTechSpark.Models\\LoginModel.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Models\\LoginModel.cs",
+              "RelativeToolTip": "edTechSpark.Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:59:14.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "edTechSpark.Core\\Entities\\OrderItem.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "edTechSpark.Core\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:58:56.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "edTechSpark.Core\\Entities\\Order.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\Order.cs",
+              "RelativeToolTip": "edTechSpark.Core\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:58:54.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Mentor.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\Mentor.cs",
+              "RelativeDocumentMoniker": "edTechSpark.Core\\Entities\\Mentor.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\Mentor.cs",
+              "RelativeToolTip": "edTechSpark.Core\\Entities\\Mentor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:58:52.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CourseTopic.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\CourseTopic.cs",
+              "RelativeDocumentMoniker": "edTechSpark.Core\\Entities\\CourseTopic.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\CourseTopic.cs",
+              "RelativeToolTip": "edTechSpark.Core\\Entities\\CourseTopic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:58:50.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourseLesson.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\CourseLesson.cs",
+              "RelativeDocumentMoniker": "edTechSpark.Core\\Entities\\CourseLesson.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\CourseLesson.cs",
+              "RelativeToolTip": "edTechSpark.Core\\Entities\\CourseLesson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:58:48.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "edTechSpark.Core\\Entities\\Course.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\Course.cs",
+              "RelativeToolTip": "edTechSpark.Core\\Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:58:44.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "edTechSpark.Core\\Entities\\Category.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\Category.cs",
+              "RelativeToolTip": "edTechSpark.Core\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:58:43.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "edTechSpark.Core\\Entities\\CartItem.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\CartItem.cs",
+              "RelativeToolTip": "edTechSpark.Core\\Entities\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:58:41.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "edTechSpark.Core\\Entities\\Cart.cs",
+              "ToolTip": "D:\\EdTech\\0-dotnet-api20230923110454\\dotnet-api\\edTechSpark.Core\\Entities\\Cart.cs",
+              "RelativeToolTip": "edTechSpark.Core\\Entities\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:58:39.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

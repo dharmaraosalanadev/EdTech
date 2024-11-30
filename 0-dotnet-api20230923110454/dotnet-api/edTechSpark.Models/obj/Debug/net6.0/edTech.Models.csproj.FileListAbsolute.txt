@@ -1,0 +1,13 @@
+F:\Training\Code\Angular\edTech\edTech.Models\obj\Debug\net6.0\edTech.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Training\Code\Angular\edTech\edTech.Models\obj\Debug\net6.0\edTech.Models.AssemblyInfoInputs.cache
+F:\Training\Code\Angular\edTech\edTech.Models\obj\Debug\net6.0\edTech.Models.AssemblyInfo.cs
+F:\Training\Code\Angular\edTech\edTech.Models\obj\Debug\net6.0\edTech.Models.ImplicitNamespaceImports.cs
+F:\Training\Code\Angular\edTech\edTech.Models\obj\Debug\net6.0\edTech.Models.csproj.CoreCompileInputs.cache
+F:\Training\Code\Angular\edTech\edTech.Models\bin\Debug\net6.0\edTech.Models.deps.json
+F:\Training\Code\Angular\edTech\edTech.Models\bin\Debug\net6.0\edTech.Models.dll
+F:\Training\Code\Angular\edTech\edTech.Models\bin\Debug\net6.0\ref\edTech.Models.dll
+F:\Training\Code\Angular\edTech\edTech.Models\bin\Debug\net6.0\edTech.Models.pdb
+F:\Training\Code\Angular\edTech\edTech.Models\obj\Debug\net6.0\edTech.Models.csproj.AssemblyReference.cache
+F:\Training\Code\Angular\edTech\edTech.Models\obj\Debug\net6.0\edTech.Models.dll
+F:\Training\Code\Angular\edTech\edTech.Models\obj\Debug\net6.0\ref\edTech.Models.dll
+F:\Training\Code\Angular\edTech\edTech.Models\obj\Debug\net6.0\edTech.Models.pdb

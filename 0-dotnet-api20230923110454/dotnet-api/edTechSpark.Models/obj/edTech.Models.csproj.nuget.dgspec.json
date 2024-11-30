@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Training\\Code\\Angular\\edTech\\edTech.Models\\edTech.Models.csproj": {}
+  },
+  "projects": {
+    "F:\\Training\\Code\\Angular\\edTech\\edTech.Models\\edTech.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Training\\Code\\Angular\\edTech\\edTech.Models\\edTech.Models.csproj",
+        "projectName": "edTech.Models",
+        "projectPath": "F:\\Training\\Code\\Angular\\edTech\\edTech.Models\\edTech.Models.csproj",
+        "packagesPath": "C:\\Users\\SHAILENDRA\\.nuget\\packages\\",
+        "outputPath": "F:\\Training\\Code\\Angular\\edTech\\edTech.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SHAILENDRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnt101/_packaging/dnt101/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0-preview.7.21378.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.7.21379.14\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

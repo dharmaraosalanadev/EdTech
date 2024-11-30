@@ -1,0 +1,295 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Training\\Code\\Angular\\edTech\\edTech.APIs\\edTech.APIs.csproj": {}
+  },
+  "projects": {
+    "F:\\Training\\Code\\Angular\\edTech\\edTech.APIs\\edTech.APIs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Training\\Code\\Angular\\edTech\\edTech.APIs\\edTech.APIs.csproj",
+        "projectName": "edTech.APIs",
+        "projectPath": "F:\\Training\\Code\\Angular\\edTech\\edTech.APIs\\edTech.APIs.csproj",
+        "packagesPath": "C:\\Users\\SHAILENDRA\\.nuget\\packages\\",
+        "outputPath": "F:\\Training\\Code\\Angular\\edTech\\edTech.APIs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SHAILENDRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnt101/AngularApp/_packaging/dntfeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\Training\\Code\\Angular\\edTech\\edTech.DomainModels\\edTech.DomainModels.csproj": {
+                "projectPath": "F:\\Training\\Code\\Angular\\edTech\\edTech.DomainModels\\edTech.DomainModels.csproj"
+              },
+              "F:\\Training\\Code\\Angular\\edTech\\edTech.Services\\edTech.Services.csproj": {
+                "projectPath": "F:\\Training\\Code\\Angular\\edTech\\edTech.Services\\edTech.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Training\\Code\\Angular\\edTech\\edTech.DAL\\edTech.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Training\\Code\\Angular\\edTech\\edTech.DAL\\edTech.DAL.csproj",
+        "projectName": "edTech.DAL",
+        "projectPath": "F:\\Training\\Code\\Angular\\edTech\\edTech.DAL\\edTech.DAL.csproj",
+        "packagesPath": "C:\\Users\\SHAILENDRA\\.nuget\\packages\\",
+        "outputPath": "F:\\Training\\Code\\Angular\\edTech\\edTech.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SHAILENDRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnt101/AngularApp/_packaging/dntfeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\Training\\Code\\Angular\\edTech\\edTech.DomainModels\\edTech.DomainModels.csproj": {
+                "projectPath": "F:\\Training\\Code\\Angular\\edTech\\edTech.DomainModels\\edTech.DomainModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Training\\Code\\Angular\\edTech\\edTech.DomainModels\\edTech.DomainModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Training\\Code\\Angular\\edTech\\edTech.DomainModels\\edTech.DomainModels.csproj",
+        "projectName": "edTech.DomainModels",
+        "projectPath": "F:\\Training\\Code\\Angular\\edTech\\edTech.DomainModels\\edTech.DomainModels.csproj",
+        "packagesPath": "C:\\Users\\SHAILENDRA\\.nuget\\packages\\",
+        "outputPath": "F:\\Training\\Code\\Angular\\edTech\\edTech.DomainModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SHAILENDRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnt101/AngularApp/_packaging/dntfeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "X.PagedList.Mvc.Core": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Training\\Code\\Angular\\edTech\\edTech.Services\\edTech.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Training\\Code\\Angular\\edTech\\edTech.Services\\edTech.Services.csproj",
+        "projectName": "edTech.Services",
+        "projectPath": "F:\\Training\\Code\\Angular\\edTech\\edTech.Services\\edTech.Services.csproj",
+        "packagesPath": "C:\\Users\\SHAILENDRA\\.nuget\\packages\\",
+        "outputPath": "F:\\Training\\Code\\Angular\\edTech\\edTech.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SHAILENDRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnt101/AngularApp/_packaging/dntfeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\Training\\Code\\Angular\\edTech\\edTech.DAL\\edTech.DAL.csproj": {
+                "projectPath": "F:\\Training\\Code\\Angular\\edTech\\edTech.DAL\\edTech.DAL.csproj"
+              },
+              "F:\\Training\\Code\\Angular\\edTech\\edTech.DomainModels\\edTech.DomainModels.csproj": {
+                "projectPath": "F:\\Training\\Code\\Angular\\edTech\\edTech.DomainModels\\edTech.DomainModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "RazorPay.Core": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

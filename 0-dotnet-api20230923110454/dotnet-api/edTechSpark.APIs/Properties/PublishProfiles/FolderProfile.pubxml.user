@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\IIS\edtechsparkapi</_PublishTargetUrl>
+    <History>True|2023-03-03T11:21:36.1424800Z;True|2023-02-10T12:49:19.9907511+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

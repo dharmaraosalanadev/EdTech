@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Github\\angular\\edtech-spark\\dotnet-api\\edTechSpark.APIs\\wwwroot\\images\\angular.png",
+      "PackagePath": "staticwebassets\\images\\angular.png"
+    },
+    {
+      "Id": "E:\\Github\\angular\\edtech-spark\\dotnet-api\\edTechSpark.APIs\\wwwroot\\images\\azure.png",
+      "PackagePath": "staticwebassets\\images\\azure.png"
+    },
+    {
+      "Id": "E:\\Github\\angular\\edtech-spark\\dotnet-api\\edTechSpark.APIs\\wwwroot\\images\\bhawna.png",
+      "PackagePath": "staticwebassets\\images\\bhawna.png"
+    },
+    {
+      "Id": "E:\\Github\\angular\\edtech-spark\\dotnet-api\\edTechSpark.APIs\\wwwroot\\images\\csharp.png",
+      "PackagePath": "staticwebassets\\images\\csharp.png"
+    },
+    {
+      "Id": "E:\\Github\\angular\\edtech-spark\\dotnet-api\\edTechSpark.APIs\\wwwroot\\images\\header-banner.png",
+      "PackagePath": "staticwebassets\\images\\header-banner.png"
+    },
+    {
+      "Id": "E:\\Github\\angular\\edtech-spark\\dotnet-api\\edTechSpark.APIs\\wwwroot\\images\\javascript.png",
+      "PackagePath": "staticwebassets\\images\\javascript.png"
+    },
+    {
+      "Id": "E:\\Github\\angular\\edtech-spark\\dotnet-api\\edTechSpark.APIs\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\Github\\angular\\edtech-spark\\dotnet-api\\edTechSpark.APIs\\wwwroot\\images\\node.png",
+      "PackagePath": "staticwebassets\\images\\node.png"
+    },
+    {
+      "Id": "E:\\Github\\angular\\edtech-spark\\dotnet-api\\edTechSpark.APIs\\wwwroot\\images\\react.png",
+      "PackagePath": "staticwebassets\\images\\react.png"
+    },
+    {
+      "Id": "E:\\Github\\angular\\edtech-spark\\dotnet-api\\edTechSpark.APIs\\wwwroot\\images\\shailendra.png",
+      "PackagePath": "staticwebassets\\images\\shailendra.png"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.edTechSpark.APIs.props",
+      "PackagePath": "build\\edTechSpark.APIs.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.edTechSpark.APIs.props",
+      "PackagePath": "buildMultiTargeting\\edTechSpark.APIs.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.edTechSpark.APIs.props",
+      "PackagePath": "buildTransitive\\edTechSpark.APIs.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.edTechSpark.APIs.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
